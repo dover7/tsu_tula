@@ -100,4 +100,5 @@ foreach ($rrr as $v){
     if ($v==13) $rrr->send('stop');
 };
 ?>
+<!--Добавили изменения в файл-->
 </body></html>

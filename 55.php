@@ -15,3 +15,4 @@ class cls
 $m = new cls;
 if (defined("cls::NAME")) echo 'Yes';
 else echo 'NO';
+//Добавили изменения в файл
